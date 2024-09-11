@@ -1,4 +1,0 @@
-M98 P"config.g"
-HTTP is enabled on port 80
-FTP is disabled
-TELNET is disabled
